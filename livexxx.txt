@@ -619,8 +619,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
 大连影视,http://live.cooltv.top/tv/cutv.php?id=dlzhys
 大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
-大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw
-
 大连生活,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000002
 大连文体,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000004
 大连影视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000005
