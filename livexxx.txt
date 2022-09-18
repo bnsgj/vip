@@ -1,7 +1,3 @@
-🇨🇳｜长期维护,#genre#
-9月16日更新,https://share.nite07.com/api/v3/file/source/19597/tv2.mp4?sign=vq2wXbs95lYiP-1xnmrIZq2ZDNuLpX3ap4Dua1iYbSQ%3D%3A0
-9月16日更新,https://share.nite07.com/api/v3/file/source/19596/tv.mp4?sign=HWfJjbifv3WLr0ASQRVDMrgyVW2kmdVvu28aR0sEQik%3D%3A0
-
 🇨🇳｜央视频道,#genre#
 CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.31.110&timestamp=20220913144756&encrypt=5c7df915991c8d67a75815f766acce64&ContentId=265183188&timezone=UTC$超清1080P
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
@@ -1316,8 +1312,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 刀郎-冲动的惩罚 西海情歌 驼铃等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
 闽南语经典老歌,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 
-🇨🇳｜应用多多,#genre#
-公众号应用多多后台回复"直播密码"获取VIP密码,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 🎎｜VIP高清秒播1_0709,#genre#
 时长:40:51-91CM-243_肉食女神的旅拍淫记-高梨遥香,https://ss.rongliren.com/api/video/m3u8?id=12863&admin=1
