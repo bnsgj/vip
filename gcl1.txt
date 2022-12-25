@@ -13,6 +13,20 @@
 大连影视,rtmp://live.dltv.cn:1935/live/live5
 大连少儿,rtmp://live.dltv.cn:1935/live/live6
 大连财经,rtmp://live.dltv.cn:1935/live/live7
+大连新闻,http://live.dltv.cn/tcb3IB5/500/u30fc4w.m3u8
+大连生活,http://live.dltv.cn/JzcFkF4/500/s20gz4F.m3u8
+大连公共,http://live.dltv.cn/51V6n6x/500/o40e146.m3u8
+大连文体,http://live.dltv.cn/hxT7Fc3/500/330gx40.m3u8
+大连影视,http://live.dltv.cn/8cuL6wa/500/420hc4L.m3u8
+大连少儿,http://live.dltv.cn/q6tZ6Ba/500/w20g64Z.m3u8
+大连财经,http://live.dltv.cn/PN4pom8/500/o20gN4p.m3u8
+
+大连新闻,http://ye23.win/iptv/dl2021.php?id=tcb3IB5
+大连生活,http://ye23.win/iptv/dl2021.php?id=JzcFkF4
+大连公共,http://ye23.win/iptv/dl2021.php?id=51V6n6x
+大连文体,http://ye23.win/iptv/dl2021.php?id=hxT7Fc3
+大连影视,http://ye23.win/iptv/dl2021.php?id=8cuL6wa
+大连财经,http://ye23.win/iptv/dl2021.php?id=PN4pom8
 
 大连微电影,rtmp://live.dltv.cn:1935/live/live10
 大连新闻,http://live.dltv.cn:81/live1/live1_video.m3u8
