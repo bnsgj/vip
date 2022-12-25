@@ -13,7 +13,7 @@
 大连影视,rtmp://live.dltv.cn:1935/live/live5
 大连少儿,rtmp://live.dltv.cn:1935/live/live6
 大连财经,rtmp://live.dltv.cn:1935/live/live7
-大连购物,rtmp://live.dltv.cn:1935/live/live8
+
 大连微电影,rtmp://live.dltv.cn:1935/live/live10
 大连新闻,http://live.dltv.cn:81/live1/live1_video.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
@@ -27,8 +27,7 @@
 大连少儿,http://live.dltv.cn:81/live6/live6_video.m3u8
 大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
 大连财经,http://live.dltv.cn:81/live7/live7_video.m3u8
-大连购物,http://live.dltv.cn:81/live8/live8_video.m3u8
-大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw
+
 大连生活,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000002
 大连影视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000005
 大连少儿,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000006
