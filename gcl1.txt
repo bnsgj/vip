@@ -730,4 +730,4 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3
+桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
