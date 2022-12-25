@@ -8,7 +8,7 @@
 辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
 大连新闻,http://live.dltv.cn:81/live1/live1_video.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
-大连生活,http://live.dltv.cn:81/live2/live2_video.m3u8
+大连生活,http://live.dltv.cn:81/live2/live2.m3u8
 大连生活,http://live.cooltv.top/tv/cutv.php?id=dlsh
 大连公共,http://live.dltv.cn:81/live3/live3_video.m3u8
 大连文体,http://live.dltv.cn:81/live4/live4_video.m3u8
