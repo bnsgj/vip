@@ -10,7 +10,7 @@
 大连生活,rtmp://live.dltv.cn:1935/live/live2
 大连公共,rtmp://live.dltv.cn:1935/live/live3
 
-连财经,rtmp://live.dltv.cn:1935/live/live7
+大连财经,rtmp://live.dltv.cn:1935/live/live7
 大连新闻,http://live.dltv.cn/tcb3IB5/500/u30fc4w.m3u8
 大连生活,http://live.dltv.cn/JzcFkF4/500/s20gz4F.m3u8
 大连公共,http://live.dltv.cn/51V6n6x/500/o40e146.m3u8
