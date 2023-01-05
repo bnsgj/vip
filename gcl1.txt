@@ -16,7 +16,7 @@
 大连公共,http://live.dltv.cn/51V6n6x/500/o40e146.m3u8
 
 大连财经,http://live.dltv.cn/PN4pom8/500/o20gN4p.m3u8
-大连新闻,http://tsl2.hls.cutv.com/cutvlive/Wrezdc5/hls/live_sd.m3u8
+大连新闻,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000132.m3u8
 大连新闻,http://ye23.win/iptv/dl2021.php?id=tcb3IB5
 大连生活,http://ye23.win/iptv/dl2021.php?id=JzcFkF4
 大连公共,http://ye23.win/iptv/dl2021.php?id=51V6n6x
