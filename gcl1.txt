@@ -6,7 +6,7 @@
 辽宁卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8$超清1080P
 辽宁卫视,http://111.40.196.39/PLTV/88888888/224/3221225558/index.m3u8$高清720P
 辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
-大连新闻,rtmp://live.dltv.cn:1935/live/live1
+
 大连生活,rtmp://live.dltv.cn:1935/live/live2
 大连公共,rtmp://live.dltv.cn:1935/live/live3
 
@@ -15,13 +15,13 @@
 大连生活,http://live.dltv.cn/JzcFkF4/500/s20gz4F.m3u8
 大连公共,http://live.dltv.cn/51V6n6x/500/o40e146.m3u8
 
-大连财经,http://live.dltv.cn/PN4pom8/500/o20gN4p.m3u8
+
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 大连新闻,http://ye23.win/iptv/dl2021.php?id=tcb3IB5
 大连生活,http://ye23.win/iptv/dl2021.php?id=JzcFkF4
 大连公共,http://ye23.win/iptv/dl2021.php?id=51V6n6x
 
-大连财经,http://ye23.win/iptv/dl2021.php?id=PN4pom8
+
 大连新闻,http://hiradio.win/cutv.php?id=dlxwzh
 大连新闻,https://php.52sf.ga/jmstvbf.php?id=273
 大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
