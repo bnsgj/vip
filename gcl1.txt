@@ -55,6 +55,15 @@
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 锦州教育,http://stream.jzgbdst.cn/2/sd/live.m3u8
 锦州新闻综合,http://stream.jzgbdst.cn/1/sd/live.m3u8
+怀旧电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226857/index.m3u8
+怀旧电影,rtsp://221.203.83.35:554/PLTV/460033/224/0/3221225938/000000000ac9.smil
+怀旧电影,http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
+怀旧电影,http://hdtv.lzu6.edu.cn/hls/hls94.m3u8
+怀旧电影,http://hdtv.lzu6.edu.cn/hls/hls48.m3u8
+怀旧电影,http://itv.ahau.edu.cn/hls/hls48.m3u8
+怀旧电影,http://hdtv.lzu6.edu.cn/hls/hls48.m3u8
+译制片,rtsp://221.203.83.35:554/PLTV/460033/224/0/3221225991/3221225872.smil
+
 
 央视频道,#genre#
 CCTV1[1920*1080],http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
