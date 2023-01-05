@@ -9,56 +9,57 @@
 大连新闻,rtmp://live.dltv.cn:1935/live/live1
 大连生活,rtmp://live.dltv.cn:1935/live/live2
 大连公共,rtmp://live.dltv.cn:1935/live/live3
-大连文体,rtmp://live.dltv.cn:1935/live/live4
-大连影视,rtmp://live.dltv.cn:1935/live/live5
-大连少儿,rtmp://live.dltv.cn:1935/live/live6
-大连财经,rtmp://live.dltv.cn:1935/live/live7
+
+连财经,rtmp://live.dltv.cn:1935/live/live7
 大连新闻,http://live.dltv.cn/tcb3IB5/500/u30fc4w.m3u8
 大连生活,http://live.dltv.cn/JzcFkF4/500/s20gz4F.m3u8
 大连公共,http://live.dltv.cn/51V6n6x/500/o40e146.m3u8
-大连文体,http://live.dltv.cn/hxT7Fc3/500/330gx40.m3u8
-大连影视,http://live.dltv.cn/8cuL6wa/500/420hc4L.m3u8
-大连少儿,http://live.dltv.cn/q6tZ6Ba/500/w20g64Z.m3u8
-大连财经,http://live.dltv.cn/PN4pom8/500/o20gN4p.m3u8
+
+连财经,http://live.dltv.cn/PN4pom8/500/o20gN4p.m3u8
 大连新闻,http://tsl2.hls.cutv.com/cutvlive/Wrezdc5/hls/live_sd.m3u8
 大连新闻,http://ye23.win/iptv/dl2021.php?id=tcb3IB5
 大连生活,http://ye23.win/iptv/dl2021.php?id=JzcFkF4
 大连公共,http://ye23.win/iptv/dl2021.php?id=51V6n6x
-大连文体,http://ye23.win/iptv/dl2021.php?id=hxT7Fc3
-大连影视,http://ye23.win/iptv/dl2021.php?id=8cuL6wa
+
 大连财经,http://ye23.win/iptv/dl2021.php?id=PN4pom8
 大连新闻,http://hiradio.win/cutv.php?id=dlxwzh
 大连新闻,https://php.52sf.ga/jmstvbf.php?id=273
 大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
 
 
-大连微电影,rtmp://live.dltv.cn:1935/live/live10
 大连新闻,http://live.dltv.cn:81/live1/live1_video.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 大连生活,http://live.dltv.cn:81/live2/live2_video.m3u8
 大连生活,http://live.cooltv.top/tv/cutv.php?id=dlsh
 大连公共,http://live.dltv.cn:81/live3/live3_video.m3u8
-大连文体,http://live.dltv.cn:81/live4/live4_video.m3u8
-大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
-大连影视,http://live.dltv.cn:81/live5/live5_video.m3u8
-大连影视,http://live.cooltv.top/tv/cutv.php?id=dlzhys
-大连少儿,http://live.dltv.cn:81/live6/live6_video.m3u8
-大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
-大连财经,http://live.dltv.cn:81/live7/live7_video.m3u8
-
 大连生活,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000002
-大连影视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000005
-大连少儿,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000006
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+辽宁都市 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8
-辽宁影视剧,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
+辽宁影视,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
 辽宁教育,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
 辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 锦州教育,http://stream.jzgbdst.cn/2/sd/live.m3u8
 锦州新闻综合,http://stream.jzgbdst.cn/1/sd/live.m3u8
+
+辽阳新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
+丹东新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
+抚顺综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275
+朝阳新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
+本溪综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312
+盘锦新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
+营口新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
+葫芦岛新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000284
+铁岭新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
+锦州新闻综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
+阜新综合 576,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
 
 央视频道,#genre#
 CCTV1[1920*1080],http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
