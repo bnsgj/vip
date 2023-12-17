@@ -901,14 +901,6 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 
-经典电视剧,#genre#
-我爱我家,https://www.goodiptv.club/yy/1382735557
-我爱我家,https://movie.douban.com/subject/3901388
-我爱我家,https://cn-gddg-ct-01-21.bilivideo.com/live-bvc/272842/live_351223_7281431/index.m3u8
-我爱我家,https://www.zhihu.com/question/32325819
-我爱我家,http://dlhls.cdn.zhanqi.tv/zqlive/61362_mZejk.m3u8
-我爱我家,https://www.zhihu.com/question/50253581
-
 电影频道,#genre#
 电影_国产,https://live.metshop.top/huya/11342386
 电影_洪金宝,https://live.metshop.top/huya/11352876
