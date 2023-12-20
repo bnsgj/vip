@@ -1266,14 +1266,14 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
 YY频道,#genre#
-yy电影2,http://mmitv.top/pltv/yy.php?id=1382749892
-yy电影3,http://mmitv.top/pltv/yy.php?id=1382735573
-yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
-yy电影6,http://mmitv.top/pltv/yy.php?id=1382736803
-yy电影7,http://mmitv.top/pltv/yy.php?id=1354930924
-yy电影8,http://mmitv.top/pltv/yy.php?id=1382745095
-yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
-yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
+yy电影1,http://mmitv.top/pltv/yy.php?id=1382749892
+yy电影2,http://mmitv.top/pltv/yy.php?id=1382735573
+yy电影3,http://mmitv.top/pltv/yy.php?id=24921161
+yy电影4,http://mmitv.top/pltv/yy.php?id=1382736803
+yy电影5,http://mmitv.top/pltv/yy.php?id=1354930924
+yy电影6,http://mmitv.top/pltv/yy.php?id=1382745095
+yy电影7,http://mmitv.top/pltv/yy.php?id=1355171357
+yy电影8,http://mmitv.top/pltv/yy.php?id=24066336
 yy电影-李连杰,http://mmitv.top/pltv/yy.php?id=1459869766
 YY電影-成龍,http://mmitv.top/pltv/yy.php?id=1354888751
 YY電影-林正英03,http://mmitv.top/pltv/yy.php?id=1351505899
@@ -1687,11 +1687,10 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 邵氏影院,https://tv.iill.top/douyu/4246519
 邵氏影院,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=4246519
 邵氏影院,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=4246519
-周星馳粵語d,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=122402
-周星馳粵語d,http://lxajh.top/tv/douyu.php?id=6566671
-李連傑,https://tv.iill.top/douyu/6566671
-李連傑,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
-周潤發,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=6566671
+周星馳粵語1,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=122402
+周星馳粵語2,http://lxajh.top/tv/douyu.php?id=6566671
+李連傑1,https://tv.iill.top/douyu/6566671
+李連傑2,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
 劉德華,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
 
 
