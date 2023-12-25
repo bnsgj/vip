@@ -843,68 +843,74 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 
 轮播测试,#genre#
 
-爱情公寓,http://epg.112114.xyz/douyu/11720507
-爱情公寓,http://diyp.112114.xyz/douyu/11720507
-爱情公寓,https://epg.112114.eu.org/douyu/11720507
 爱情公寓,https://live.metshop.top/douyu/11720507
 爱情公寓,http://lxajh.top/tv/douyu.php?id=11720507
 爱情公寓,http://43.138.170.29:35455/douyu/11720507
 爱情公寓,https://tv.iill.top/douyu/11720507
+爱情公寓,http://epg.112114.xyz/douyu/11720507
+爱情公寓,http://diyp.112114.xyz/douyu/11720507
+爱情公寓,https://epg.112114.eu.org/douyu/11720507
 
-
-猫和老鼠,http://epg.112114.xyz/huya/11352879
-猫和老鼠,http://diyp.112114.xyz/huya/11352879
-猫和老鼠,https://epg.112114.eu.org/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://lxajh.top/tv/huya.php?id=11352879
 猫和老鼠,http://43.138.170.29:35455/huya/11352879
 猫和老鼠,https://tv.iill.top/huya/11352879
+猫和老鼠,http://epg.112114.xyz/huya/11352879
+猫和老鼠,http://diyp.112114.xyz/huya/11352879
+猫和老鼠,https://epg.112114.eu.org/huya/11352879
 
 
-辽视小品,http://epg.112114.xyz/douyu/9067836
-辽视小品,http://diyp.112114.xyz/douyu/9067836
-辽视小品,https://epg.112114.eu.org/douyu/9067836
 辽视小品,https://live.metshop.top/douyu/9067836
 辽视小品,http://lxajh.top/tv/douyu.php?id=9067836
 辽视小品,http://43.138.170.29:35455/douyu/9067836
 辽视小品,https://tv.iill.top/douyu/9067836
+辽视小品,http://epg.112114.xyz/douyu/9067836
+辽视小品,http://diyp.112114.xyz/douyu/9067836
+辽视小品,https://epg.112114.eu.org/douyu/9067836
 
-纪晓岚,http://epg.112114.xyz/huya/11342396
-纪晓岚,http://diyp.112114.xyz/huya/11342396
-纪晓岚,https://epg.112114.eu.org/huya/11342396
 纪晓岚,https://live.metshop.top/huya/11342396
 纪晓岚,http://lxajh.top/tv/huya.php?id=11342396
 纪晓岚,http://43.138.170.29:35455/huya/11342396
 纪晓岚,https://tv.iill.top/huya/11342396
+纪晓岚,http://epg.112114.xyz/huya/11342396
+纪晓岚,http://diyp.112114.xyz/huya/11342396
+纪晓岚,https://epg.112114.eu.org/huya/11342396
 
-燕双鹰,http://epg.112114.xyz/douyu/5875025
-燕双鹰,http://diyp.112114.xyz/douyu/5875025
-燕双鹰,https://epg.112114.eu.org/douyu/5875025
 燕双鹰,https://live.metshop.top/douyu/5875025
 燕双鹰,http://lxajh.top/tv/douyu.php?id=5875025
 燕双鹰,http://43.138.170.29:35455/douyu/5875025
 燕双鹰,https://tv.iill.top/douyu/5875025
+燕双鹰,http://epg.112114.xyz/douyu/5875025
+燕双鹰,http://diyp.112114.xyz/douyu/5875025
+燕双鹰,https://epg.112114.eu.org/douyu/5875025
 
-狄仁杰,http://epg.112114.xyz/huya/11352958
-狄仁杰,http://diyp.112114.xyz/huya/11352958
-狄仁杰,https://epg.112114.eu.org/huya/11352958
 狄仁杰,https://live.metshop.top/huya/11352958
 狄仁杰,http://lxajh.top/tv/huya.php?id=11352958
 狄仁杰,http://43.138.170.29:35455/huya/11352958
 狄仁杰,https://tv.iill.top/huya/11352958
+狄仁杰,http://epg.112114.xyz/huya/11352958
+狄仁杰,http://diyp.112114.xyz/huya/11352958
+狄仁杰,https://epg.112114.eu.org/huya/11352958
 
 
-
+怀旧动漫轮播,https://live.metshop.top/douyu/1174353
+怀旧动漫轮播,http://lxajh.top/tv/douyu.php?id=1174353
+怀旧动漫轮播,http://43.138.170.29:35455/douyu/1174353
+怀旧动漫轮播,https://tv.iill.top/douyu/1174353
+怀旧动漫轮播,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=1174353
 怀旧动漫轮播,http://epg.112114.xyz/douyu/1174353
+怀旧动漫轮播,http://diyp.112114.xyz/douyu/1174353
 怀旧动漫轮播,https://epg.112114.eu.org/douyu/1174353
 
-坦克世界,http://epg.112114.xyz/douyu/4722447
-坦克世界,https://epg.112114.eu.org/douyu/4722447
-坦克世界,http://diyp.112114.xyz/douyu/4722447
+
 坦克世界,https://live.metshop.top/douyu/4722447
 坦克世界,http://lxajh.top/tv/douyu.php?id=4722447
 坦克世界,http://43.138.170.29:35455/douyu/4722447
 坦克世界,https://tv.iill.top/douyu/4722447
+坦克世界,http://epg.112114.xyz/douyu/4722447
+坦克世界,https://epg.112114.eu.org/douyu/4722447
+坦克世界,http://diyp.112114.xyz/douyu/4722447
+
 
 少儿频道,#genre#
 内蒙古少儿,http://110.16.65.6:8888/newlive/live/hls/56/live.m3u8
@@ -1127,10 +1133,12 @@ CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 
+
 辽宁体育,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
 辽宁体育,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8?世界杯WorldCup
+
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
@@ -1166,6 +1174,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
 大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
 米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+
 电影轮播,#genre#
 电影轮播1,https://live.metshop.top/huya/11602034
 电影轮播2,https://live.metshop.top/huya/11342428
