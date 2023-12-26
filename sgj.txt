@@ -851,14 +851,6 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 爱情公寓,http://diyp.112114.xyz/douyu/11720507
 爱情公寓,https://epg.112114.eu.org/douyu/11720507
 
-猫和老鼠,https://live.metshop.top/huya/11352879
-猫和老鼠,http://lxajh.top/tv/huya.php?id=11352879
-猫和老鼠,http://43.138.170.29:35455/huya/11352879
-猫和老鼠,https://tv.iill.top/huya/11352879
-猫和老鼠,http://epg.112114.xyz/huya/11352879
-猫和老鼠,http://diyp.112114.xyz/huya/11352879
-猫和老鼠,https://epg.112114.eu.org/huya/11352879
-
 
 辽视小品,https://live.metshop.top/douyu/9067836
 辽视小品,http://lxajh.top/tv/douyu.php?id=9067836
@@ -868,13 +860,6 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 辽视小品,http://diyp.112114.xyz/douyu/9067836
 辽视小品,https://epg.112114.eu.org/douyu/9067836
 
-纪晓岚,https://live.metshop.top/huya/11342396
-纪晓岚,http://lxajh.top/tv/huya.php?id=11342396
-纪晓岚,http://43.138.170.29:35455/huya/11342396
-纪晓岚,https://tv.iill.top/huya/11342396
-纪晓岚,http://epg.112114.xyz/huya/11342396
-纪晓岚,http://diyp.112114.xyz/huya/11342396
-纪晓岚,https://epg.112114.eu.org/huya/11342396
 
 燕双鹰,https://live.metshop.top/douyu/5875025
 燕双鹰,http://lxajh.top/tv/douyu.php?id=5875025
@@ -892,15 +877,6 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 狄仁杰,http://diyp.112114.xyz/huya/11352958
 狄仁杰,https://epg.112114.eu.org/huya/11352958
 
-
-怀旧动漫轮播,https://live.metshop.top/douyu/1174353
-怀旧动漫轮播,http://lxajh.top/tv/douyu.php?id=1174353
-怀旧动漫轮播,http://43.138.170.29:35455/douyu/1174353
-怀旧动漫轮播,https://tv.iill.top/douyu/1174353
-怀旧动漫轮播,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=1174353
-怀旧动漫轮播,http://epg.112114.xyz/douyu/1174353
-怀旧动漫轮播,http://diyp.112114.xyz/douyu/1174353
-怀旧动漫轮播,https://epg.112114.eu.org/douyu/1174353
 
 
 坦克世界,https://live.metshop.top/douyu/4722447
@@ -932,128 +908,6 @@ CCTV央视文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
-我爱我家,#genre#
-
-第01集,https://v9.dious.cc/20230907/ON2lCRr1/index.m3u8
-第02集,https://v9.dious.cc/20230907/yeD5kaxc/index.m3u8
-第03集,https://v9.dious.cc/20230907/ERjGt0Qe/index.m3u8
-第04集,https://v9.dious.cc/20230907/TmyGOweL/index.m3u8
-第05集,https://v9.dious.cc/20230907/BCSxlTbi/index.m3u8
-第06集,https://v9.dious.cc/20230907/OnijlD0R/index.m3u8
-第07集,https://v9.dious.cc/20230907/alj6wcf8/index.m3u8
-第08集,https://v9.dious.cc/20230907/BWM2I6Kp/index.m3u8
-第09集,https://v9.dious.cc/20230907/fSEeouhA/index.m3u8
-第10集,https://v9.dious.cc/20230907/iIJAeEjK/index.m3u8
-第11集,https://v9.dious.cc/20230907/8rThSYXP/index.m3u8
-第12集,https://v9.dious.cc/20230907/HeVjAA3I/index.m3u8
-第13集,https://v9.dious.cc/20230907/ha8h3rdX/index.m3u8
-第14集,https://v9.dious.cc/20230907/6ULeYtAR/index.m3u8
-第15集,https://v9.dious.cc/20230907/x6zYMt0u/index.m3u8
-第16集,https://v9.dious.cc/20230907/QNmjTGXo/index.m3u8
-第17集,https://v9.dious.cc/20230907/9EXS3zkR/index.m3u8
-第18集,https://v9.dious.cc/20230907/LHoFCDO9/index.m3u8
-第19集,https://v9.dious.cc/20230907/Zyylp9Q8/index.m3u8
-第20集,https://v9.dious.cc/20230907/9J5r3pXO/index.m3u8
-第21集,https://v9.dious.cc/20230907/zzCOr4be/index.m3u8
-第22集,https://v9.dious.cc/20230907/BzPzg5d4/index.m3u8
-第23集,https://v9.dious.cc/20230907/8X0rChl8/index.m3u8
-第24集,https://v9.dious.cc/20230907/Q2lTo1ts/index.m3u8
-第25集,https://v9.dious.cc/20230907/91M2B2Re/index.m3u8
-第26集,https://v9.dious.cc/20230907/5S6Ot5qZ/index.m3u8
-第27集,https://v9.dious.cc/20230907/50c4PuLA/index.m3u8
-第28集,https://v9.dious.cc/20230907/dgWkBFWP/index.m3u8
-第29集,https://v9.dious.cc/20230907/J25vmS1G/index.m3u8
-第30集,https://v9.dious.cc/20230907/zS1RnptM/index.m3u8
-第31集,https://v9.dious.cc/20230907/6JBmEK3u/index.m3u8
-第32集,https://v9.dious.cc/20230907/dOCOtt6j/index.m3u8
-第33集,https://v9.dious.cc/20230907/BoWsSa1C/index.m3u8
-第34集,https://v9.dious.cc/20230907/8sBkCPkA/index.m3u8
-第35集,https://v9.dious.cc/20230907/kUWsfqmB/index.m3u8
-第36集,https://v9.dious.cc/20230907/A6P699P8/index.m3u8
-第37集,https://v9.dious.cc/20230907/SOQdrnbB/index.m3u8
-第38集,https://v9.dious.cc/20230907/ptiR94RY/index.m3u8
-第39集,https://v9.dious.cc/20230907/oufSKWSQ/index.m3u8
-第40集,https://v9.dious.cc/20230907/1sCgn9lx/index.m3u8
-第41集,https://v9.dious.cc/20230907/zGAlkYYN/index.m3u8
-第42集,https://v9.dious.cc/20230907/62Gg3Vlp/index.m3u8
-第43集,https://v9.dious.cc/20230907/YNz6jyYq/index.m3u8
-第44集,https://v9.dious.cc/20230907/TTs8ONym/index.m3u8
-第45集,https://v9.dious.cc/20230907/I53n5chm/index.m3u8
-第46集,https://v9.dious.cc/20230907/rgDpmoKU/index.m3u8
-第47集,https://v9.dious.cc/20230907/qczUdwP8/index.m3u8
-第48集,https://v9.dious.cc/20230907/vaEBGy5K/index.m3u8
-第49集,https://v9.dious.cc/20230907/bPF8Wdqd/index.m3u8
-第50集,https://v9.dious.cc/20230907/AepqOsI8/index.m3u8
-第51集,https://v9.dious.cc/20230907/2CjidegV/index.m3u8
-第52集,https://v9.dious.cc/20230907/r6XwDIfc/index.m3u8
-第53集,https://v9.dious.cc/20230907/iSeer02Y/index.m3u8
-第54集,https://v9.dious.cc/20230907/QpC23qdo/index.m3u8
-第55集,https://v9.dious.cc/20230907/fjE8bAw1/index.m3u8
-第56集,https://v9.dious.cc/20230907/jX28Tjd9/index.m3u8
-第57集,https://v9.dious.cc/20230907/hT2k3D7S/index.m3u8
-第58集,https://v9.dious.cc/20230907/mON2wtHl/index.m3u8
-第59集,https://v9.dious.cc/20230907/H1GDCJ2Y/index.m3u8
-第60集,https://v9.dious.cc/20230907/1ppFyrzi/index.m3u8
-第61集,https://v9.dious.cc/20230907/Cx1PUt4R/index.m3u8
-第62集,https://v9.dious.cc/20230907/47favO57/index.m3u8
-第63集,https://v9.dious.cc/20230907/4y0S4WYC/index.m3u8
-第64集,https://v9.dious.cc/20230907/HtlssWNl/index.m3u8
-第65集,https://v9.dious.cc/20230907/Lz5RzgkZ/index.m3u8
-第66集,https://v9.dious.cc/20230907/hhwPuBaZ/index.m3u8
-第67集,https://v9.dious.cc/20230907/6rZasgcp/index.m3u8
-第68集,https://v9.dious.cc/20230907/NwfAq0er/index.m3u8
-第69集,https://v9.dious.cc/20230907/boAvGuWL/index.m3u8
-第70集,https://v9.dious.cc/20230907/BPIqESg0/index.m3u8
-第71集,https://v9.dious.cc/20230907/INy6QNb7/index.m3u8
-第72集,https://v9.dious.cc/20230907/i9qUeBph/index.m3u8
-第73集,https://v9.dious.cc/20230907/XoqmMPxW/index.m3u8
-第74集,https://v9.dious.cc/20230907/qDqDeMoR/index.m3u8
-第75集,https://v9.dious.cc/20230907/93YvclHT/index.m3u8
-第76集,https://v9.dious.cc/20230907/H3wdblLj/index.m3u8
-第77集,https://v9.dious.cc/20230907/PF2xZDjS/index.m3u8
-第78集,https://v9.dious.cc/20230907/O0vA3UZc/index.m3u8
-第79集,https://v9.dious.cc/20230907/ubntmv1k/index.m3u8
-第80集,https://v9.dious.cc/20230907/f69cC10E/index.m3u8
-第81集,https://v9.dious.cc/20230907/FQ7jhp1V/index.m3u8
-第82集,https://v9.dious.cc/20230907/xuUqLhk8/index.m3u8
-第83集,https://v9.dious.cc/20230907/iVvjaKl8/index.m3u8
-第84集,https://v9.dious.cc/20230907/DRABe9Tl/index.m3u8
-第85集,https://v9.dious.cc/20230907/8loUfVCv/index.m3u8
-第86集,https://v9.dious.cc/20230907/7l547OMa/index.m3u8
-第87集,https://v9.dious.cc/20230907/rjgvSPXx/index.m3u8
-第88集,https://v9.dious.cc/20230907/VlmqEuzg/index.m3u8
-第89集,https://v9.dious.cc/20230907/v2honQxF/index.m3u8
-第90集,https://v9.dious.cc/20230907/Xi1LXpjs/index.m3u8
-第91集,https://v9.dious.cc/20230907/gdzZH4NE/index.m3u8
-第92集,https://v9.dious.cc/20230907/1Ptr2R9i/index.m3u8
-第93集,https://v9.dious.cc/20230907/2RpP5CRt/index.m3u8
-第94集,https://v9.dious.cc/20230907/jGCLWrDJ/index.m3u8
-第95集,https://v9.dious.cc/20230907/6j3O5Pjv/index.m3u8
-第96集,https://v9.dious.cc/20230907/yqMZ8EC9/index.m3u8
-第97集,https://v9.dious.cc/20230907/VUjvqeuu/index.m3u8
-第98集,https://v9.dious.cc/20230907/BBKRP6tO/index.m3u8
-第99集,https://v9.dious.cc/20230907/AcXAlKST/index.m3u8
-第100集,https://v9.dious.cc/20230907/QzptTpXN/index.m3u8
-第101集,https://v9.dious.cc/20230907/CBmRHgaf/index.m3u8
-第102集,https://v9.dious.cc/20230907/cZT8PEyc/index.m3u8
-第103集,https://v9.dious.cc/20230907/pWVrXx9T/index.m3u8
-第104集,https://v9.dious.cc/20230907/8FB0HNUr/index.m3u8
-第105集,https://v9.dious.cc/20230907/gfVhKYoD/index.m3u8
-第106集,https://v9.dious.cc/20230907/Dr0UByIH/index.m3u8
-第107集,https://v9.dious.cc/20230907/yAEqGoXZ/index.m3u8
-第108集,https://v9.dious.cc/20230907/kufkpwfQ/index.m3u8
-第109集,https://v9.dious.cc/20230907/4QO60wD1/index.m3u8
-第110集,https://v9.dious.cc/20230907/dXSytuxw/index.m3u8
-第111集,https://v9.dious.cc/20230907/ztQhvOrl/index.m3u8
-第112集,https://v9.dious.cc/20230907/CNyTJFwP/index.m3u8
-第113集,https://v9.dious.cc/20230907/7FOye3my/index.m3u8
-第114集,https://v9.dious.cc/20230907/SqveNCnM/index.m3u8
-第115集,https://v9.dious.cc/20230907/ZdaM3Loj/index.m3u8
-第116集,https://v9.dious.cc/20230907/8HeCrdDC/index.m3u8
-第117集,https://v9.dious.cc/20230907/2AIrriG8/index.m3u8
-第118集,https://v9.dious.cc/20230907/Yu0fQEH3/index.m3u8
-第119集,https://v9.dious.cc/20230907/9YvMNVzF/index.m3u8
-第120集,https://v9.dious.cc/20230907/lJ5DKk0s/index.m3u8
 
 体育频道,#genre#
 CCTV5,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1174,59 +1028,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
 大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
 米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
-
-电影轮播,#genre#
-电影轮播1,https://live.metshop.top/huya/11602034
-电影轮播2,https://live.metshop.top/huya/11342428
-电影轮播3,https://live.metshop.top/huya/21059577
-电影轮播4,https://live.metshop.top/huya/11342427
-电影轮播5,https://live.metshop.top/huya/11352886
-电影轮播6,https://live.metshop.top/huya/11352962
-电影轮播7,https://live.metshop.top/huya/21059579
-电影轮播8,https://live.metshop.top/huya/21059595
-
-电影轮播9,https://live.metshop.top/huya/11602041
-电影轮播10,https://live.metshop.top/huya/21059552
-电影轮播11,https://live.metshop.top/huya/21059585
-电影轮播12,https://live.metshop.top/huya/11601986
-电影轮播13,https://live.metshop.top/huya/11601971
-
-电影轮播14,https://live.metshop.top/huya/11602044
-电影轮播15,https://live.metshop.top/huya/21059588
-电影轮播16,https://live.metshop.top/huya/11602043
-电影轮播17,https://live.metshop.top/huya/11336719
-电影轮播18,https://live.metshop.top/huya/11352877
-电影轮播19,https://live.metshop.top/huya/11342421
-电影轮播20,https://live.metshop.top/huya/11352973
-电影轮播21,https://live.metshop.top/huya/11342424
-电影轮播22,https://live.metshop.top/huya/11352960
-6MH周星星,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-4MH兜兜兜,https://live.metshop.top/huya/11352941
-4MH兜兜兜,https://live.metshop.top/huya/11602058
-4MH兜兜兜,https://live.metshop.top/huya/11352974
-4MH苦瓜姨,https://live.metshop.top/huya/11602077
-4MH爱初心1,https://live.metshop.top/huya/11602044
-4MH爱初心2,https://live.metshop.top/huya/11352894
-4MH爱初心3,https://live.metshop.top/huya/11352897
-4MH爱初心4,https://live.metshop.top/huya/11342426
-澳門莲花㊣版1,https://live.metshop.top/huya/11342419
-澳門莲花㊣版2,https://live.metshop.top/huya/11601977
-福星高照㊣代,https://live.metshop.top/huya/11352965
-
-CHC家庭㊣版1,https://live.metshop.top/huya/21059580
-CHC家庭㊣版2,https://live.metshop.top/huya/11352903
-CHC动作㊣版,https://live.metshop.top/huya/11352944
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 辽宁频道,#genre#
@@ -1393,15 +1194,15 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
-YY频道,#genre#
-yy电影1,http://mmitv.top/pltv/yy.php?id=1382749892
-yy电影2,http://mmitv.top/pltv/yy.php?id=1382735573
-yy电影3,http://mmitv.top/pltv/yy.php?id=24921161
-yy电影4,http://mmitv.top/pltv/yy.php?id=1382736803
-yy电影5,http://mmitv.top/pltv/yy.php?id=1354930924
-yy电影6,http://mmitv.top/pltv/yy.php?id=1382745095
-yy电影7,http://mmitv.top/pltv/yy.php?id=1355171357
-yy电影8,http://mmitv.top/pltv/yy.php?id=24066336
+Y Y频道,#genre#
+速度与激情全集,http://mmitv.top/pltv/yy.php?id=1382749892
+敢死队-精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382735573
+【港片】赌片 动作,http://mmitv.top/pltv/yy.php?id=24921161
+变形金刚,http://mmitv.top/pltv/yy.php?id=1382736803
+金三角大营救,http://mmitv.top/pltv/yy.php?id=1354930924
+毒液：致命守护者,http://mmitv.top/pltv/yy.php?id=1382745095
+无尽海底墓追剧,http://mmitv.top/pltv/yy.php?id=1355171357
+恐怖电影,http://mmitv.top/pltv/yy.php?id=24066336
 yy电影-李连杰,http://mmitv.top/pltv/yy.php?id=1459869766
 YY電影-成龍,http://mmitv.top/pltv/yy.php?id=1354888751
 YY電影-林正英03,http://mmitv.top/pltv/yy.php?id=1351505899
@@ -1455,822 +1256,85 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619&uid=2338241617
 赵本山小品,http://mmitv.top/pltv/yy.php?id=32160832&uid=2361867875
 
-斗鱼轮播,#genre#
-【特辑电影】有骨气酒楼营业中,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=3637778
-【牛叔】N分钟带你看完大片,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=2758565
-【神乐】华语 经典 电影 沈腾 周杰伦,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=85894
-【RM-点播】点播！模式-24H欢乐不断,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=131977
-「橙記」「最人气港剧直播间」,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4549169
-【龙门】天山勾地火，宝塔镇蛇妖,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9650860
-【贝贝】今日3倍亲密度~武汉妹子陪你看剧,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=431460
-【正版】经典小品，下饭必备,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9067836
-❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=263824
-【片片】片荒的时候看片片,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4258555
-邵氏影院,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4246519
-【全体起立】你的本山大叔超强来袭,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9817716
-【万合天宜】王大锤情怀上线,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9220456
-【更新】最全斗牌、麻将剧集解说,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9559158
-你滴勋宗，8.12已更新,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9738854
-【科幻Fans】精彩科幻影视，解说连连看,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=3508304
-【开心麻花】沈腾、马丽经典小品专场,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=10153463
-【咖妃驾到】宋小宝经典小品,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9817729
-开心锤锤，开心快乐每一天！,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9018297
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=96577
-【周星驰】星爷 电影 喜剧 经典 神乐,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=122402
-邵氏影院,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4246519
-【小宇60帧】王子公主请来看电影,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=323876
-【樱木花道灌篮】PP动漫精彩解说,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9837291
-✨美兮✨不可能 我二弟天下无敌✨,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=2838296
-【女神金】60帧 蓝光原画 刀刀陪看,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=747764
-刘哔讲电影，东北话解说嘎嘎强,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=2632223
-【虫哥】魔性吐槽童年回忆,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=8915074
-许君聪经典小品的直播间,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=10419558
-科学黑历史,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9317739
-老高与小茉的睡前科普,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=236461
-《游钓中国第九季》第九季同步更新中,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=791411
-邵氏影院,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4246519
-【刘老师】每天爆笑解说不断,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=8317926
-你的海南军阀给你带来最地道的赶海,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=1109218
-贾玲经典小品的直播间,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=10419541
-白客、孔连顺主演《鲜肉老师》登陆斗鱼！,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9815091
-【蓝翔】弹幕天团、下饭神剧[请勿刷屏],http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=5908256
-▶冰冰◀恐怖经典喜剧和你一起,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=74374
-❤️怡寶❤️今天3倍亲密度哟,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=434971
-【蓝翔】原画电影 华语经典 周星驰喜剧,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=276200
-【贝爷影厅】欧美 科幻 动作 灾难 经典,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=252802
-【贝爷MAX厅】60帧 科幻 动作 经典,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4332
-邵氏影院,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4246519
-口音贼重的解说直播间,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9734098
-大齐赶海，又是出大货的一天,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=3647278
-【郭杰瑞】被央视点名的美国小哥,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=7357786
-【体育】聊聊科比、乔丹传奇故事,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=8434598
-粤语电影⭐周星驰 林正英 经典喜剧 白话,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=6566671
-【点歌台】MV 华语 热歌 经典 流行,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=3186217
-【牛叔2台】欢迎来到牛叔的悬疑世界,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=10010651
-扑朔迷离的案件里隐藏着什么？,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=610972
-兄弟赶海，带你看遍天下海鲜,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9091847
-迷小雅最新爽剧解说,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=9639225
-邵氏影院,http://103.45.68.47:666/gy/gy_thHDqL/斗鱼.php?id=4246519
-
-虎牙轮播,#genre#
-【周星星】星爷经典不间断,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342412
-鬼吹灯系列最好的一部,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602075
-天不生我李淳罡，剑道万古如长夜,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336592
-雀刀门 最好看的东北喜剧,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352963
-英叔护体 | 林正英搞笑僵尸系列,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342421
-鬼吹灯虐我千百遍，我待鬼吹灯如初恋,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352883
-成龙经典武打动作片,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342386
-经典之作·金庸群侠篇电影,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342427
-【虎牙影院】沈腾经典片放映,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601968
-李连杰系列 武打高产王,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342390
-玄幻专场·国产特效大制作,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352973
-解救吾先生-王千源绑票华仔,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=880261
-【警匪】不会演戏的警察不是好卧底,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352886
-【黑帮大片】山鸡哥重现江湖 ,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336719
-【王晶】港风导演代表,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602058
-够劲，就是中国功夫,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352941
-搞笑恐怖类 弹幕护体,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601960
-这些都是高智商的罪犯,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352962
-【五福星】每天都要快乐哦,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11282233
-周润发电影 小马哥归来 ,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342387
-周星星粤语经典版~,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336587
-星漢燦爛，幸甚至哉！吴磊赵露思疑商夫妇不要太甜,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336591
-【喜剧专场】我们一起找乐子,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602044
-黑帮斗争 黑与白的对峙，情与义的泯灭,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342419
-快意江湖：金庸的武侠世界,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342435
-杰森·斯坦森:郭达是你吗,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059588
-千面影帝梁家辉,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342429
-怪兽打架x异形世界：爽就完事了,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059577
-飙车的老司机的直播间,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352894
-简小熙的直播间,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342399
-枪战还是得看他！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059579
-洪金宝·童年回忆杀,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11279251
-经典港剧笑嘻嘻,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352965
-【女神系列】邱淑贞 王祖贤 张曼玉 ,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336571
-刘德华电影_经典系列,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342424
-不挤电影院也能笑着过春节！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352897
-历年贺岁档 笑就完事儿了,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601986
-牙缝多了根青菜的直播间,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352877
-si神来了系列 好怕怕,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352903
-朋友，和赵盼儿一起跳支舞吗！？,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11336590
-盗墓还得看经典的,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059552
-【许氏三杰】快来 就差你了,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602033
-甄子丹 我要打十个,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352935
-《jiang夜》终将至，花开彼岸天,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352885
-【十一推荐】动作要快，姿势要帅,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602041
-巨石强森系列:真肌肉就是爽,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059581
-玄幻剧场·体验另一种生活！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342414
-只解沙场为国死，何须马革裹尸还,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601977
-大场面战争片:一枚核弹爆炸,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059574
-那些年的香gang贺岁片,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601971
-古墓系列·去冒险吧！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352913
-校园热血电影，不比古惑仔差,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352934
-Han国高分动作片 刺激过瘾,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352884
-童年女神周海媚！她一笑我就恋爱了,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11279247
-港剧最佳拍档 | 许冠英合集,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601972
-永远的经典女神,无法超越啊,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352909
-动作电影来啦,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602077
-【镖行天下】镖在人在,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352969
-全球最烧脑悬疑片 哪部是你的最爱,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352880
-怪兽系列 巨蟒和大白鲨来袭,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059554
-搞笑喜剧：最佳拍档 开心鬼系列,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342423
-真正的硬汉007，铁打的詹姆斯邦德！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059585
-DC宇宙来啦，有你喜欢的英雄吗？,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342428
-国产悬疑精选·智商在线,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11342395
-法外狂徒张三李四,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601965
-橙光游戏改变 我从来没见过这么炸裂的演技！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602034
-刺激到不行的韩版犯罪片,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352974
-看完你也学不会系列~,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352945
-sha生·能过审是奇迹,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352876
-永远怀念“黄药师”曾江,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11601981
-午夜末班车第20集,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11352887
-【百基争郎】性转版臻环传，16个男人争一个，我大受震撼！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059578
-喜来乐狮子头的直播间,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059580
-可能是目前最好的篮球电影,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=21059586
-情人节：港片教你追女仔,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=11602043
-
-TVB剧场,#genre#
-普通司机小马的直播间,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23749096
-看孙悟空唐三藏取西经,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23735126
-张卫健版西游记-当蜘蛛精看上了齐天大圣,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23728660
-楚汉骄雄-我恨做皇后 但我做刘邦的皇后,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23740156
-【鹿鼎记】小春版韦小宝 是你心中最经典的版本吗？,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865080
-【天龙八部】最佳版本天龙·97版黄日华超神作,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23903123
-【刑事侦缉档案】最棒的警匪片系列,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23734169
-【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23864973
-【法证先锋】侦查片天花板 超经典,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23863804
-【倚天屠龙记】最爱的赵敏永远是黎姿,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23734246
-【陀枪师姐】永远的陈小生 无法超越的经典,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23860039
-【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23903130
-【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865142
-【鉴证实录】天网恢恢，疏而不漏,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23903183
-【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865171
-【使徒行者】正邪相斗 情义两难,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23734256
-金枝欲孽-宫斗剧才一开山既已是巅峰！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865036
-【大唐双龙传】爱你恨你，一生一世,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23728674
-【创世纪】神预言，剧里的金融地产现在都成真了！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23749083
-扫黄先锋·欧阳震华在不能不看,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23903196
-【妙手仁心】最出色的都市剧之一,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23829543
-射雕之九阴真经-姜大卫 张智霖,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23824164
-【大时代】史上主角疯子最多的片·荡气回肠大时代！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865161
-【笑看风云】再无包文龙，再无林贞烈,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23865058
-野蛮亲家血腥对线！,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23863796
-【梁朝伟版鹿鼎记】梁朝伟和刘德华还能拒绝吗,103.45.68.47:666/gy/gy_thHDqL/虎牙(切片).php?id=23734183
-
 
 凤凰频道,#genre#
 
-凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰中文,http://113.117.74.28:8081/hls/37/index.m3u8
-凤凰中文,http://sxz.zccatv.cn:9901/tsfile/live/0108_1.m3u8
-凤凰中文,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-凤凰中文,http://171.110.42.48:8181/tsfile/live/1009_1.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-凤凰中文,https://pull-l3-cny.douyincdn.com/live/YesLiveTV027c8104-3ea4-45de-8442-04b9715f7982.m3u8
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰中文,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
-凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://43.142.32.164:9999/小果.php?id=test1_4000&Cf.m3u8
-凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
-凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?/TVOD/.smil
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231022/1.m3u8
-凤凰中文,http://198.16.100.90:8278/phoenixtv_/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
-凤凰中文,http://198.16.100.90:8278/phoenixtv_/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文,http://198.16.100.90:8278/phoenixtv_/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰中文,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰中文,http://php.17186.eu.org:80/phtv/fhzw.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8
-凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
-凤凰中文,http://qspyx.7766.org:9999/tsfile/live/1106_1.m3u8
-凤凰中文,http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
-凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500
-凤凰中文,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500&/PLTV/hls.smil.m3u8
-凤凰中文,https://cntv.sbs/tv/cbn.php?id=xfjc
-凤凰中文,http://live.hust.edu.cn/hls/fhzw.m3u8
-凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjc
-凤凰中文,http://120.8.135.86:10010/hls/99/index.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰中文,http://113.117.74.32:8081/hls/37/index.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://xiaozeng.aweitv.top/tv/gdtv.php?id=fhzw_1500
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://60.208.16.27:1505/gudou.php?id=364&id=fhzw_1500
-凤凰中文,http://caohm.320.io:20000/udp/239.93.1.9:2192
-凤凰中文,http://175.13.226.152:8888/udp/239.76.246.7:1234
-凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
-凤凰中文,http://sc2022.stream-link.org/tv2306.php?id=h16
-凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
-凤凰中文,http://66.181.39.224/ml.php?id=phoenixtv_
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8?WithCaption
-凤凰中文,http://113.117.74.10:8081/hls/37/index.m3u8
-凤凰中文,http://113.117.74.10:8081/hls/37/index.m3u8
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941626
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
-凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
-凤凰中文,http://iptv.weai.love/10010/88888888/back-gxgg.play?tvid=fhzw
-凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
-凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
-凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
-凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
-凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-凤凰中文,http://39.134.116.108:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-凤凰中文,https://pull-l3-cny.douyincdn.com/live/stream-19882782023032322508.m3u8
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
-凤凰中文,http://anren.live/HK/AQtR.m3u8
-凤凰中文,http://anren.live/HK/AQtU.m3u8
-凤凰中文,rtmp://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://120.84.96.89:808/hls/29/index.m3u8
-凤凰中文,http://120.84.96.73:808/hls/29/index.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://120.84.96.89:808/hls/29/index.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://120.84.96.73:808/hls/29/index.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,https://playTVlive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://playTVlive.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playTVlive.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?$7M1920x1080
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?$1920x1080
-凤凰中文,https://ktpremium.com:443/M919HR/5577/25984?c=大马
-凤凰中文,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=114695
-凤凰中文,https://ktpremium.com:443/K3939/6757/25984
-凤凰中文,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=114695
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://2022.stream-link.org/live/322460831
-凤凰中文,mitv://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
-凤凰中文,http://2022.stream-link.org/live/32246083
-凤凰中文,https://pull-l3-cny.douyincdn.com/live/stream-19836282023042918032.m3u8
-凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://50.7.238.114:8278/phoenixinfo_/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
-凤凰资讯,http://43.142.32.164:9999/小果.php?id=test2_4000&Cf.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?/TVOD/.smil
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231003/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
-凤凰资讯,http://sxz.zccatv.cn:9901/tsfile/live/1076_1.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
-凤凰资讯,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
-凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231003/1.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?/TVOD/.smil
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
 凤凰资讯,http://gxdl-lhs.8866.org:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
-凤凰资讯,https://ktpremium.com:443/M919HR/5577/492399?c=香港
-凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-凤凰资讯,http://171.110.42.48:8181/tsfile/live/1001_1.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰资讯,http://103.45.68.47/gy/gy563/xsj.php?id=phTVinfo
-凤凰资讯,http://sc2022.stream-link.org/tv2306.php?id=h15
-凤凰资讯,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
-凤凰资讯,http://113.117.74.32:8081/hls/36/index.m3u8
-凤凰资讯,http://live.hust.edu.cn/hls/fhzx.m3u8
-凤凰资讯,http://120.8.135.86:10010/hls/100/index.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯,http://103.112.191.9:880/LAOSAT1068.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,http://175.13.226.152:8888/udp/239.76.246.8:1234
-凤凰资讯,http://175.13.226.152:8888/udp/239.76.253.134:9000
-凤凰资讯,https://ktpremium.com:443/K3939/6757/492399
-凤凰资讯,http://113.117.74.12:8081/hls/36/index.m3u8
-凤凰资讯,http://66.181.39.224/ml.php?id=phoenixinfo_
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8?WithCaption
-凤凰资讯,http://113.117.74.10:8081/hls/36/index.m3u8
-凤凰资讯,http://113.117.74.10:8081/hls/36/index.m3u8
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941627
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://106.52.110.94:5678/sxg.php?id=test1_4000
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://106.52.110.94:5678/sxg.php?id=test2_4000
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
-凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
-凤凰资讯,http://awei.beimua.com/iptv.php?id=2
-凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV027c8104-3ea4-45de-8442-04b9715f7982.m3u8
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-凤凰资讯,http://39.134.116.106:8080/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221226274/index.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.flv
-凤凰资讯,https://pull-l3-cny.douyincdn.com/live/stream-19882782023032613428.m3u8
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
-凤凰资讯,rtmp://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://anren.live/HK/AQtQ.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://120.84.96.89:808/hls/28/index.m3u8
-凤凰资讯,http://120.84.96.73:808/hls/28/index.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰资讯,http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?$1920x1080
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,http://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.m3u8?$960x540
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-凤凰资讯,http://playTVlive.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
-凤凰资讯,https://playTVlive.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
-凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156407
-凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
-凤凰资讯,https://ktpremium.com:443/M919HR/5577/25985?c=大马
-凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=156407
-凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=156407
-凤凰资讯,https://ktpremium.com:443/K3939/6757/25985
-
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,http://2022.stream-link.org/live/1770675188
-凤凰资讯,mitv://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
-凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
-凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰香港,http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-凤凰香港,https://ktpremium.com:443/M919HR/5577/492400?c=香港
-凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
-凤凰香港,http://171.110.42.48:8181/tsfile/live/1005_1.m3u8
-凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=153402
-凤凰香港,http://113.117.74.12:8081/hls/38/index.m3u8
-凤凰香港,http://113.117.74.32:8081/hls/38/index.m3u8
-凤凰香港,https://epg.pw/stream/af200edb390eccb6bd2710d91f2d129e2fa16a7ec32f42733606bbd126b434c0.m3u8
-凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153402
-凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
-凤凰香港,https://ktpremium.com:443/K3939/6757/492400
-凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307100804
-凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h17
-凤凰香港,http://113.117.74.10:8081/hls/38/index.m3u8
-凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153402
-凤凰香港,https://cntv.sbs/fs?id=fhhk
-凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
-凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.82:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
-凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
-凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,http://39.134.116.108:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,http://120.84.96.23:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.28:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.108:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.113:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.73:808/hls/81/index.m3u8
-凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?$1920x1080
-凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u
-凤凰香港,http://103.45.68.47/gy/gy563/xsj.php?id=phTVhk
-凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
-凤凰香港,https://dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&timestamp=1685726244&rand=EQyZTsANKs&uuid=9b647b3816b2a66a&from=web&sign=75ff6fcd4b760d6e76b21d5c332ca874
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://anren.live/HK/AQtQ.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://103.45.68.47/gy/gy563/xsj.php?id=phTVinfo
+凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰中文,http://113.117.74.28:8081/hls/37/index.m3u8
+凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231022/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?/TVOD/.smil
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
+凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+凤凰中文,http://anren.live/HK/AQtU.m3u8
+凤凰中文,http://anren.live/HK/AQtR.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
+凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
+凤凰中文,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV43.m3u8
 
-MV频道,#genre#
-汪苏泷|爱丫爱丫 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000QtKds2387Yr
-周深|桃花诺 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004NSq2D1jmbFr
-周深|周深《斗罗大陆Ⅱ绝世唐门》主题曲《璀璨冒险人》首唱舞台 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001nK3vC2eqsWS
-张靓颖|是你 (《天赐的声音 第四季》 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001js8d80Cbf6j
-梁博|出现又离开 (我是唱作人 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0030ogmf2k
-陈翔|烟火 四川卫视中国爱大歌会 现场版 12\/09\/08 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i0023awcfra
-蔡徐坤|Hug me (首秀舞台live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0022MR7S0BodxX
-张碧晨|字字句句 (《天赐的声音 第四季》 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002zFJms1LvtZu
-刘惜君|大风吹 (天赐的声音第二季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q0036nbxlx0
-LISA|《青春有你2》LISA纯享舞台 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0033larags
-李荣浩|慢冷 (2022中国好声音 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000963nd2WCXBr
-郁可唯|水中花 (时光音乐会 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0041xfqcac
-汪苏泷|Letting Go (《天赐的声音 第四季》 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004TrS1Y47vbd3
-林俊杰|我怀念的 (梦想的声音 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0022t07c6h
-弦子|不甘 (天赐的声音第三季 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v0042wcrr83
-张郁梓|精卫 (舞台2023 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001NfHei2OyUpm
-汪苏泷|就让这大雨全都落下 (《天赐的声音 第四季》 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001yTydD1SThAS
-黄绮珊|歌曲：是妈妈是女儿 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002FjoxA3Jpv7Y
-七叔（叶泽浩）|《踏山河》| TME live特别现场七叔（叶泽浩）罗布乐思音乐节 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0040qy898g
-单依纯|永不失联的爱 (2020中国好声音 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o0036q58dwj
-张韶涵|篇章 (天赐的声音第三季 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=d0042n7don3
-GAI周延|用情 (《天赐的声音 第四季》 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0000Kxt92dhLmr
-时代少年团|《大时代》时代少年团 | 时代少年团「造夏」音乐分享会 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003iHbNW00kbX3
-周深|玫瑰少年 (天赐的声音第三季 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f00427im9co
-张韶涵|一路生花 (天赐的声音第三季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=c0043st0iq1
-廖俊涛|谁 (明日之子 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=n0024vkt8cf
-毛不易|消愁 (明日之子 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x00248tvbgv
-张碧晨|慢冷 (《天赐的声音 第四季》 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000CScgP011NeS
-林俊杰|知足 (梦想的声音第二季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o00253ll2zh
-孙楠|大中国 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0002Wgtk0eyMgs
-张碧晨|三拜红尘凉 (《天赐的声音 第四季》 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001RnXBZ3PZsrs
-G.E.M. 邓紫棋|11 (时光音乐会·老友记 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001GrVvy0w0N6h
-张靓颖|谁 (《天赐的声音 第四季》 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001pi6ba1dflqK
-黄绮珊|岁月 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=00457jz10R79NU
-周深|达拉崩吧 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0035bfmwkw
-刘惜君|晚风心里吹 (天赐的声音第三季 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0042o1mbm5
-A-Lin|空空 (我们的歌第五季 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003pphX50xVUu8
-汪苏泷|我想念 (《天赐的声音 第四季》 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000jbzvs3VBVJk
-蒋敦豪|乌兰巴托的夜 (中国新歌声 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=a0021f7ovla
-周深|烟花易冷 (2021广东卫视跨年晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0035buxbkd
-海来阿木|西楼儿女 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000ZWDvT4d0w17
-毛不易|像我这样的人 (明日之子 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0026hr4b5e
-古巨基|我们的明天 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003MA3ja1SdwzF
-G.E.M. 邓紫棋|海阔天空 (时光音乐会·老友记 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004XzjIv2sLIi1
-王心凌|老人与海 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000E8S9n3cdLTm
-儿歌|饼干歌 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=c0023v1q347
-谭维维|我记得 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004MU5XN1Ulu72
-单依纯|不值得 (爆裂舞台 第九期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0040zrq9xi
-李克勤|天下有情人 (中国梦之声·我们的歌 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0033623yj8
-杨丞琳|如愿 (闪光的乐队 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q0042kvrefl
-谭维维|山河图 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003DFiDP3EwRG5
-汪苏泷|哎呀 (《天赐的声音 第四季》 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002wzL4f0sOsMX
-李荣浩|默 (2021中国好声音 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0040tacrjx
-暗杠|童话镇Plus (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=a0034whjj4q
-韩红|送你一朵小红花 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003R2rgM4CDmBv
-周传雄|冬天的秘密 (超强音浪 第49期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0025wk78ro
-孙楠|AMANI (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002U7TWb0GJIcL
-张杰|星星 (天籁之战第二季 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0025l7quai
-汪苏泷|一笑倾城 (第24届东方风云榜音乐盛典),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=g00230h1lrs
-时代少年团|《楼外楼》时代少年团 | 时代少年团「造夏」音乐分享会 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000Gcq4Z4ecTJs
-韩红|鲜花 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002JTO3R13rcB4
-林俊杰|雪落下的声音 (梦想的声音第三季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0028wdy9hz
-张杰|泡沫 (时光音乐会·老友记 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0015RUj312iL2u
-筷子兄弟|最炫小苹果 (2015央视春晚),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0016rve5rr
-王俊凯|星辰大海 (周冬雨\/王俊凯\/易烊千玺\/刘昊然\/陈飞宇\/许魏洲\/宋祖儿\/陈学冬\/董子健\/谷嘉诚\/尚语贤\/曾舜晞\/张雪迎\/张哲瀚\/陈都灵\/蓝盈莹\/李鸿其\/王森\/张慧雯\/金晨\/王嘉\/李蔓瑄\/周也\/王紫璇\/易恒\/匡牧野\/朱颜曼滋\/孙嘉灵\/王锵\/张海宇\/王西\/张婧仪)(2019年金鸡百花电影节开幕式),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j00324xw5kt
-柳爽|漠河舞厅 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0040ejvuh3
-贾盛强|姐姐 (快乐男声 2013\/06\/30 Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o0012mi8xtt
-宋亚轩|Manta (王牌对王牌第八季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000ag2EO3W7ya3
-赵紫骅|可乐 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s00158gzy5t
-汪苏泷|亲爱的，那不是爱情 (《天赐的声音 第四季》 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002BoPVa1GjtAL
-徐佳莹|失落沙洲 (我是歌手第四季 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=l0026vl4k3b
-孙楠|无名的人 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002TN9fJ21yUkA
-宋冬野|安和桥 (2015 宋冬野 F+PLUS乐范系列52(我爱)mini concert),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=c0023gv5h7n
-GAI周延|问风 (天赐的声音第三季 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o0042hsa7d1
-时代少年团|大时代 (王牌对王牌第八季),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003yBMmj2EPaiX
-摩登兄弟刘宇宁|烟花易冷 (中国梦之声·我们的歌 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0033wfzbf5
-胡彦斌|一线 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004Xnw5f0WvJgO
-周深|如愿 (2022年中央广播电视总台七夕晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004VCKSW4IjHR6
-G.E.M. 邓紫棋|句号 (时光音乐会·老友记 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001GuQvp1oFqH2
-王心凌|第一次爱的人 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003dRf1c3hPTna
-汪小敏|笑看风云 (金曲捞第二季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o002752ysaa
-张杰|孤勇者 (时光音乐会·老友记 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001eVx9F2SSjg5
-周深|【周深】《璀璨冒险人》以极具穿透力的嗓音唤醒追逐梦想之光 | 2023TMEA (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0040NAU91qCF3K
-王贰浪|王贰浪现场演唱《像鱼》鲜明音色实力圈粉 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r003232bnz1
-孙楠|美丽的神话 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0035Kb8g1z8JVs
-薛之谦|违背的青春 (中国梦之声·我们的歌第三季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o00401t6kwq
-马嘉祺|精卫 (王牌对王牌第八季),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002q9M2j0wyQV1
-张淇|骄傲的少年 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002GD0n70UXRM4
-海来阿木|三生三幸 (天赐的声音第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0042ehdtpu
-朴宰范|몸매 (MOMMAE) (作战吧偶像 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0020ou01g2
-李荣浩|麻雀 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=g00344vq5ul
-汪苏泷|雨爱 (《天赐的声音 第四季》 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000EGaFc2F9O8T
-林俊杰|像我这样的人 (梦想的声音第三季 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0029u3ucut
-胡海泉|路过人间 (天赐的声音第三季 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=b0042382v6u
-张杰|最美的太阳 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0035b6q29g
-小咪|我走后 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003GScii30Iu8e
-王琪|可可托海的牧羊人 (Live) (2021年中央电视台春节联欢晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=c0036sfi8am
-任素汐|时光机 (幻乐之城 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0027t28kya
-张韶涵|孤勇者 (天赐的声音第三季 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=u0042qakjcj
-胡夏|知否知否 (经典咏流传第二季 第四期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0030sbjdzv
-林俊杰|我们的爱 (梦想的声音第二季 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0025d22882
-张远|嘉宾 (闪耀之夜天津建卫618周年晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p00437h7ige
-郁可唯|时间煮雨 ( 我为歌狂总决赛 2013\/07\/18),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=g0023b6wtwx
-周深|调查中 (天赐的声音第三季 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0042ta95i4
-毛不易|一程山路 (明日之子 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=n00249s8y1l
-海来阿木|三生三幸 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002MQbT148HYaL
-胡彦斌|11 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001gTL5R2SqCvW
-李克勤|野狼disco (中国梦之声•我们的歌 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0032o6vouk
-林俊杰|输了你赢了世界又如何 (梦想的声音第二季 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0025lvkrsg
-周深|光亮 (时光音乐会 第二季 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000BJQUH431Qgy
-王嘉尔|安静 (梦想的声音第三季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k002925889v
-G.E.M. 邓紫棋|唯一 (时光音乐会·老友记 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001qxcET0Dv5cb
-毛不易|呓语 (我是唱作人 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0030g9pqxi
-周深|跟着你到天边 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0031Ex5i1ZnLyE
-周深|算你狠 (天赐的声音第三季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q0042vcact7
-单依纯|别问很可怕 (爆裂舞台 第四期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0040819vu9
-时代少年团|《怎么办》时代少年团 | 时代少年团「造夏」音乐分享会 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0027TK3Z0otxRC
-厦门六中合唱团|稻香 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0026grm5mm
-王琪|站着等你三千年 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=n0029arna9w
-A-Lin|天若有情 (我们的歌第五季 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004ekIKU16AyCr
-张杰|少年中国说 (经典咏流传 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0026ou85mf
-汪苏泷|蔓延 (《天赐的声音 第四季》 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0033bh0T1d2UGp
-胡彦斌|负重一万斤长大 (《天赐的声音 第四季》 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002ecAgS4RuWCK
-陈势安|天后 (时光音乐会·老友记 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003oR88U4SGGfe
-谷建芬|TME live京东晚八点音乐会-年轻的朋友来相会 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004fXyFI3Lld4T
-曲婉婷|Jar Of Love (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=N0010JWcJyX
-时代少年团|醉 (王牌对王牌第八季),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001jkaUL4AcUlf
-张碧晨|她说 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0024r3ryxq
-周深|雪落下的声音 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v0035m65b6o
-告五人|给你一瓶魔法药水 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004TINl43Oi6Nk
-张碧晨|光的方向 (2021中国好声音 国庆晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0040y58pvl
-宋亚轩|把耳朵叫醒 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002c8FcH49AEwT
-张杰|【张杰】深情献唱《天下+三生三世+剑心+红尘录+听+少年中国说》| 2023TMEA (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003Gfr2M1L8jPA
-尚雯婕|TME x 雪碧 2023夏日限定酷爽音乐节-长沙站 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0023o1Kg04W8F3
-张碧晨|见与不见 (《天赐的声音 第四季》 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002kBPCq28s2rB
-TME live|第四届TMEA腾讯音乐娱乐盛典8日全程 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002AErlY1jR5p6
-周深|Monster (中国梦之声•我们的歌 第1期盲选),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i0032ea8zp9
-黄绮珊|萱草花 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001W5OFW3b8sIg
-黄霄雲|左手指月 (梦想的声音第三季 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0029ss8p22
-孙楠|相亲相爱 (2010春晚Live版),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q00161cyau3
-张靓颖|化身孤岛的鲸 (《天赐的声音 第四季》 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0007Alks1D1qru
-吉克隽逸|你要的全拿走 (《天赐的声音 第四季》 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000mdU060Cc3uK
-林子祥|敢爱敢做 (中国梦之声·我们的歌第三季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y004128x1vc
-法老|家有儿女 (活死人版),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0033m7bjuz
-林子祥|敢爱敢做 (声生不息 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003NGayN4HHKFu
-希林娜依高|好想爱这个世界啊 (创造营2020 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i0034du3x0r
-杨丞琳|千年之恋 (闪光的乐队 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v0041ms1ga9
-宋亚轩|《五月粉丝见面会》-世界上的另一个我纯享版 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0039cmrie4
-林俊杰|爱要怎么说出口 (梦想的声音 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=l0022w0l786
-张碧晨|雨天 (天赐的声音第三季 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0042qhq8c2
-周安信|天之大 (音乐大师课 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t00169gek7k
-张碧晨|年轮 (2015年央视中秋晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=d001861nvlz
-徐子未|慢冷 (青春有你3 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0036aiwpv8
-那英|恼人的秋风 (中国梦之声·我们的歌 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0033q8n2d0
-薛之谦|遗憾 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0025sypdgg
-陈慧琳|相亲相爱 (Live) (2009年第11届全运会开幕式主题曲),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0013apos2j
-毛晓彤|孤独颂歌 (2022央视中秋文艺晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000h4yXt32P3V1
-李光洁|500里 (幻乐之城 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=n0027etetu6
-G.E.M. 邓紫棋|天空没有极限 (时光音乐会·老友记 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0038IjxA4YA9W1
-刘柏辛Lexie|爱如火 (《天赐的声音 第四季》 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=00342IZT32qRr4
-G.E.M. 邓紫棋|雨蝶 (王牌对王牌第三季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0026hnkr6z
-王一博|熹微 (2020腾讯视频闪耀星光日),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0035hwlnjl
-任贤齐|酒干倘卖无 (中国梦之声·我们的歌 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=l00331f1185
-小沈阳|依兰爱情故事 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0034zwoaoj
-张韶涵|亲爱的那不是爱情 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0035bkhirk
-孙楠|在希望的田野上 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001SAKGA2GmUXo
-苏阳|凉州词 (经典咏流传第五季 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=u0042afaox3
-崔子格|卜卦 (QQ音乐巅峰对决 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=d0016qkow65
-韩红|那些花儿 (声生不息·家年华 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001Vn9jV3TePlA
-张信哲|过火 (2012年天津卫视春晚晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0010rbOGMe
-毛阿敏|相思 (声生不息·家年华 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001jFEW83TdyjB
-薛之谦|这么久没见 (剧好听的歌 第2期) (《你好检察官》电视剧插曲),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004GUbgG4R6GX2
-张碧晨|开往早晨的午夜 (浙江卫视818盛典),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0041xb4d31rDyk
-时代少年团|哪吒 (2021天猫双11狂欢夜),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0041s4i9ld
-徐佳莹|不为谁而作的歌 (我是歌手第四季 歌王之战),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0020sx65qb
-胡彦斌|如果你也听说 (《天赐的声音 第四季》 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004WscYE2xfczs
-黄渤|水手 (极限挑战第二季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0348k83vl7
-隔壁老樊|姬和不如 (2021绽放北京音乐会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v00369ggxpc
-A-Lin|给我一个理由忘记 (我们的歌第五季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003TiGcD2sCo7M
-王一博|无羁 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0032uxxtdj
-毛不易|借 (明日之子 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=p0024yo3a5g
-薛之谦|陪你去流浪 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=a0034wcp7iq
-任妙音|红枣树 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i0030cx964l
-毛不易|东北民谣 (我是唱作人 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0030zotth0
-孟慧圆|这世界那么多人 (谁是宝藏歌手 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y003922e1t6
-华晨宇|好想爱这个世界啊 (王牌对王牌第五季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=u0033p7u9r6
-尚雯婕|鹿be free (唱过夏天—2020流行音乐大型演唱会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0034swbzg1
-黄龄|若把你 (时光音乐会·老友记 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000NwCjc3H1mGV
-张韶涵|如愿 (天赐的声音第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0042y0gh1u
-王赫野|今晚不想睡 (《天赐的声音 第四季》 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001fo4qv2388jU
-梁博|男孩 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s0025golsgj
-孟佳|【孟佳】《KNOCKOUT》洗脑舞曲燃爆舞台 | 2023TMEA (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002As0Jx2iUuGc
-腾格尔|乌梅子酱 (我们的歌第五季 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0042VjaQ2RNqwU
-林志炫|烟花易冷 (我是歌手第一季 第6期 ),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r0011f0fiuj
-周深|月光 (时光音乐会第二季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000PXzmA2l4z48
-创造营2021学员|输入法打可爱按第五 (米卡\/高卿尘\/吴宇恒\/薛八一\/张星特\/曾涵江\/鞠婧祎)(创造营2021 第八期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x004004zfw6
-张碧晨|开往早晨的午夜 (2021浙江卫视中秋晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0040bfe0cc
-胡彦斌|迷途的孤鸟 (天赐的声音第三季 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y00421p13fn
-大张伟|倍儿爽 (2014年央视春晚),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0013priu9c
-王心凌|快乐指南 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000uoKLD1CmzmD
-HENRY刘宪华|Trap (梦想的声音第二季 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q0025e80h57
-金志文|远走高飞 (美好的时光 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q003569dxtb
-井胧|骁 (2022迎冬奥BRTV环球跨年冰雪盛典),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0041ufd3gh
-肖战|给所有知道我名字的人 (2021北京卫视春节联欢晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t00362js00a
-张杰|天下 (时光音乐会·老友记 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0000vNAc15RUH8
-凤凰传奇|山河图 (2019年中央广播电视总台中秋晚会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i0032c1jz5r
-大欢|三生石下 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0003BCqs0Q4RcE
-孟佳|眉飞色舞 (天赐的声音第三季 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0042plx42n
-杨坤|孤勇者 (闪光的乐队 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0041c1eis8
-薛之谦|陪你去流浪 (中国梦之声·我们的歌第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=g0041ta23gq
-陈乐一|青鸟 (梦之声·下一站传奇 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=m00335zfhod
-花粥|盗将行 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s00422f173b
-金莎|爱的魔法 (唱过夏天—2020流行音乐大型演唱会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=e0034hm9cds
-张镐哲|再回到从前 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0024mo9ie0
-王菲|传奇 (2010春节联欢晚会 Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=O0010vq02ep
-凤凰传奇|将进酒 (经典咏流传 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x002574cle8
-萧敬腾|奇迹再现 (闪光的乐队 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v0042x0vqmi
-林志炫|没离开过 (我是歌手第一季 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=u0011vqcl0t
-赵雷|画 (中国好歌曲 14\/01\/24),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=q0013it5e0u
-王俊凯|爱江山更爱美人 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001nbIrP0I6uyu
-陈奕迅|陪你度过漫长岁月 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0034d265mo
-林俊杰|崇拜 (梦想的声音 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0022tti26r
-G.E.M. 邓紫棋|句号 (2020江苏卫视99划算夜),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0034sbrn0q
-任贤齐|对折 (我们的歌第五季 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002R98CN0RgZT6
-房东的猫|New Boy (2021聚划算《神马奇妙夜》),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z00414tmft9
-苏运莹|野子 (中国好歌曲第二季 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w017925co0y
-汪峰|妈妈 (拾叁音乐特辑Live版),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003WnAVY2axUlK
-GAI周延|三国恋 (《天赐的声音 第四季》 第4期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003QZqQI1WCKx9
-任贤齐|爱江山更爱美人 (中国梦之声•我们的歌 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w00329xsbb3
-宋亚轩|爱情转移 (王牌对王牌第八季 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003XWmmK3hE16Y
-希林娜依高|赤伶 (《天赐的声音 第四季》 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0003jcia15dnXi
-弦子|醉清风 (流淌的歌声第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v00401si2c2
-陈楚生|一封家书 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002UtHxC4IajLH
-汪苏泷|有点甜 (2020BTV环球跨年冰雪盛典),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0033ygtzeu
-宋亚轩|《五月粉丝见面会》-黄昏纯享版 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0039mmtu6x
-何洁|太阳 (天赐的声音第二季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=l0035n1yh3f
-TME live|《醉》-时代少年团 | 第三届TMEA腾讯音乐娱乐盛典 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v00417vwed0
-萧敬腾|爱人错过 (中国梦之声·我们的歌第三季 第11期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0041alv0os
-吉克隽逸|被动 (天赐的声音第三季 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=l0042ly31j1
-邓寓君(等什么君)|关山酒 (2021江苏卫视跨年演唱会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x00355w4js2
-汪苏泷|我的眼里只有你 (声生不息·家年华 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0020HvzW2Y8FQE
-张信哲|太想爱你 (中国梦之声·我们的歌第二季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w00346oe5k1
-TME live|《男儿歌》-时代少年团 | 第三届TMEA腾讯音乐娱乐盛典 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0041tnliwi
-陈楚生|给从前的自己 (谁是宝藏歌手 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v0039a82d8z
-胡彦斌|你要如何我们就如何 (天赐的声音第二季 第5期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z00369reg5b
-马嘉祺|雪落下的声音 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=s00322qu4m7
-要不要买菜|下山 (唱过夏天—2020流行音乐大型演唱会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=i00343g22ew
-房东的猫|第一次 (天赐的声音第三季 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0042p1brpi
-胡彦斌|陪你度过漫长岁月 (天赐的声音第三季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k004320w2mg
-林俊杰|女儿情 (梦想的声音 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0022hr72yq
-刘雨昕|【刘雨昕】随着《Boom Tick Boom》尽情摇摆 | 2023TMEA (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000l66Lt0CJVIW
-TME live|《剑魂》-汪苏泷 | 第三届TMEA腾讯音乐娱乐盛典 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0041wt2tum
-叶蒨文|海阔天空 (声生不息 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0034doLb4W1FMo
-蒋敦豪|天空之城 (中国新歌声 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0020bziwu9
-时代少年团|我喜欢你 (湖南卫视汽车之家818全球汽车夜),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k00407undfy
-GAI周延|爱如潮水 (蒙面唱将猜猜猜第二季20171105),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=d0033x56kve
-丁程鑫|说散就散 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v00313k3ngd
-G.E.M. 邓紫棋|你成为了谁的幸福 (时光音乐会·老友记 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=00179X2P4XhxaI
-隔壁老樊|你我不一 (2021绽放北京音乐会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0036qg3u5v
-梁咏琪|许愿 (时光音乐会第二季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003IlH8U3xhcVU
-创造101女孩|海草舞 (李子璇\/吴芊盈\/于美红\/张溪\/马兴钰) (创造101 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j0026w86aa8
-李荣浩|下雨天 (美好的时光 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z00346tfptl
-胡彦斌|牧马城市 (《天赐的声音 第四季》 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002kpRZy1wcmxu
-凤凰传奇|山河图 (2020汽车之家818全球汽车夜),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0034sopxyd
-阿吉太组合|阿衣莫 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w00255m1c82
-阎维文|强军战歌 (2015央视春晚),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y001630k3j6
-张杰|自己 (歌手 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=v00238jyrhh
-林俊杰|小情歌 (梦想的声音第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=z0029mhhfnw
-林俊杰|【林俊杰】金曲联唱《无拘 + 曹操 + 醉赤壁 + 愿与愁》| 2023TMEA (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=002YwYN62XlN8h
-张杰|你就不要想起我 (我是歌手第五季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=j00337fu4k7
-汪晨蕊|爱情转移 (中国新歌声 第9期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y00211ymjsi
-毛不易|如果有一天我变得很有钱 (明日之子 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=r00243eapu8
-张远|有生之年 (你好生活),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0040v2f1lb
-虞书欣|Gwalla (青春有你3导师秀),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=b0036rvbryt
-汤晶锦|天亮了 (中国新声代第三季 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0026rkla55
-郁可唯|他不懂 (时光音乐会 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=y0041en2yi7
-时代少年团|《躺着真舒服》时代少年团 | 时代少年团「造夏」音乐分享会 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=004Fg9tb3w9l31
-羽泉|狂流 (我是歌手第一季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0012bx951z
-王者荣耀同人局|百战成诗 (2020王者共创·荣耀盛典102古风唱将献礼),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0035hdqa35
-王俊凯|We Will Rock You (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000lDSUv1pcHo7
-江珊|梦里水乡 (Live),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=b0024pj3us9
-黄霄雲|蝴蝶夫人 (天赐的声音第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0042h33p5o
-希林娜依高|喜欢你 (创造营2020 第1期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o0033fvzz51
-蒋大为|敢问路在何方 (流淌的歌声 第3期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=t0029x0mlyf
-弦子|莫问归期 + 醉清风 (天赐的声音第二季 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=o0036r0a7oy
-王靖雯|说说话 (2021中国好声音 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=k0040kn34j2
-华晨宇|风之海 (王牌对王牌第八季 第8期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=0030WaHW3VqMa2
-房东的猫|凤凰花开的路口 (天赐的声音第三季 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0042d2orkh
-李克勤|下一站天后 (声生不息 第7期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=001qI8Zc0tv7En
-袁娅维TIA RAY|映山红 (春天花会开 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f00424fll16
-任贤齐|天涯 (中国梦之声·我们的歌 第10期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=w0033518v15
-谭维维|敕勒歌 (经典咏流传第二季 第六期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x00308mcoae
-TOYOKI|暴雨 (霓虹花园天台演唱会 特别合作版),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=h0042f3d2ae
-张杰|夜空中最亮的星 (我是歌手 第八期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=a0030qpyroi
-毛不易|盛夏 (明日之子 第15期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=m0026hlj7tz
-张芸京|偏爱 (时光音乐会·老友记 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=003y2y2j4D0RGn
-邓丽君|大鱼 (2022年江苏卫视跨年演唱会),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=f0041bihu2e
-谢娜|天下 (2017跨界歌王 第12期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=x0024hr3z26
-光良|童话 (我们的歌第五季 第2期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=00165N253YoAae
-希林娜依高|怎么会忘记你 (《天赐的声音 第四季》 第6期),http://103.45.68.47:666/gy/gy_thHDqL/QQmv.php?vid=000TcMzO3Das0Q
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
+凤凰香港,http://103.45.68.47/gy/gy563/xsj.php?id=phTVhk
+凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 
 
 老电影频道,#genre#
+
 神州第一刀,https://v3.dious.cc/20220425/LcckFQhG/index.m3u8
 神州第一刀,https://s2.fsvod1.com/20220308/xOl3NO6M/1200kb/hls/index.m3u8
 挺进中原,https://v7.dious.cc/20220829/O9igRJRD/index.m3u8
