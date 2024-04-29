@@ -247,6 +247,13 @@ CCTV5+,https://epg.pw/stream/c93ef4490202709af03614963e04521ff92cb925e19a0d5c8ec
 
 CHC動作電影,https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
 CHC動作電影,https://epg.pw/api/epg.json?lang=zh-hans&date=20240429&channel_id=14050
+CHC動作電影,https://epg.pw/stream/77bf7df2d731577735186c7f5c9571323cdab7f391cbc5b06610432fdd9b0cf3.m3u8
+CHC動作電影[ipv6],https://epg.pw/stream/9f00fc4985b9fc052c04cbf5bc06476c6d12553d683786b8b172d1642332ec1c.m3u8
+CHC動作電影[ipv6],https://epg.pw/stream/d6d78f759a7afd55e3b888688bea257207af8d88d08ed0dc589b1459ddb9b69b.m3u8
+CHC動作電影,https://epg.pw/stream/482ebcd01c24687df2b281027d77667d204cbc7a2e9998377fab59b52cf48831.m3u8
+CHC高清电影,https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
+CHC高清电影,https://epg.pw/stream/b043ef09d7a1a8d98786dc758ba89fe3f6af6dd28c7af586483521755c63b966.m3u8
+CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e2009cdd68af5367692b0b9245.m3u8
 CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
 CHC家庭影院,https://epg.pw/api/epg.json?lang=zh-hans&date=20240429&channel_id=14050
 CHC高清电影,https://epg.pw/api/epg.json?lang=zh-hans&date=20240429&channel_id=14045
