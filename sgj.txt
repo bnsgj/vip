@@ -2868,108 +2868,77 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 
 
 咪咕体育,#genre#
+咪咕体育[group_title],https://stream1.freetv.fun/5ae380dc4b8fcace26f83564985e6466130914d2c9c7facd1f1d30835b7c0240.m3u8
+咪咕健身 yoga[group_title],https://stream1.freetv.fun/b9b6e5e38f9f1d27b9ed76d38152e106636a14a93642a5c4e8ce0086987eeb23.ctv
+咪咕直播 *「ipv6」[group_title],https://stream1.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
+咪咕直播 *「ipv6」[group_title],https://stream1.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
+咪咕直播 *「ipv6」[group_title],https://stream1.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+咪咕直播 *「ipv6」[group_title],https://stream1.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/9589aa6afd842857c239e5e1587725d735eda181c6982da0924ac79e3fbb0ee2.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/c2a1106e95b6766f69d89e68119ffe8446987d5125a297ec064f9c21e4fc5274.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/1d255dd418f7230736797d36db28b9737236a8dcf6ed74f3912afcc6dac363bf.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/80aed0c8c08861ac50884c062d44323fb5609fb0603ca21d127946fd8d127109.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/1b1425a40c2404c16993d5b0f573c4d76b6399a65d6824b0f919099fe8634334.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/a23c018c9a626f469e5de353dc023edc877d5d42323c89616f0dd3e4c0ea98a4.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/f0bd8f9395917df81b6eb626feee7b1a55b96f5c98c084f2a759556ebf8fc62e.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/7c63ea43ad424ce16a329993f428639c05c509482a6bd8ce07431254b6dd4ba1.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/e399efc392a2ed9a04ff4d3a972c7d08647bb2b6dffae42528551edd66815ff9.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/b612ff35c5c978a200b4e85ef513c4de17ab983cd05338f7f0c9fa51bc1c7147.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/a29a02b20f1cc7170132d5b23e3710b9584353933700839b2bfa3d4b20ada111.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/6d8c8ad7d390385c50aef572e407dbff0a07720608235b751975717ffbfc6ba5.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/6ba634096d1a13c75b950e206e535d02c8d480ee693d6c2a42836e9c7a564990.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/6bd0c452f1d465fe6f82b2b9dbc58e318e109bb4875f6577e9aa8e37fdf648c8.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/7e88167638a231f7a85f40e1cefa61de9b92bba051b0df578dc178026ed307d2.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/fe45f088d5b1b9b8d817e9b56041581eb4189a4e4112c6f3de0c8afe633f3998.m3u8
+咪咕直播 「ipv4」[group_title],https://stream1.freetv.fun/67142ea4f3a1e1f958c20df0e86d77638546e46a4b3f3608e7bd13c469b105e2.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/428c36b21be36b4fb8ae547cb404a9564ef1f25e4c03fe86744e4afa6e6e38c7.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/a4521021b3637dace3ff2be086a391742b5443dd8ce2db50a2573fc530d62527.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/fcff72d18abb218f1c54ec1c27841178a488f32218eab2de52c0c44188d5f217.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/1ee31c833e3835a2e8f41e3d21613e26bd832655c2336aa6f9e20c92b9d9aeb2.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/ed85c70de722b22268e7f99a29b632e07fe1707b40b8751baf7a29746e4fa173.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/35e874cc68b5059fc8b61720d29290c8419fb453a36a0c67391fdc943a2dc6ed.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/decc0cd753260c8c7ccd6e19efbac8b3cf678507530c34e8a200572b56c37263.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/74eeaa143f4450065da1b7cc1a425699a8ec1d27155ff8503f6cd85800cf23e6.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/a62683e9b8adb620e5fb02925de48e17df4f56a23bed32c3fcd8aca42dc747c4.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/5c705bd67780199d6b8933880f3db86d08ad19bd7d051da1e255775d17f7aec6.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/537a8298aef3bfd8d3cf8422600b84256fd863c2d0408c0a692ac13c7a3a07fe.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/8b1e33f3eedb123881208154a53245f9e04bf97ab7a34e62267f71c5c93bd3f7.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/c05704ff9823c457e9f94e3e377ddccf537eb0a821dfb2c297095dcdd3204a04.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/247cf3fb5b97945d4700ba4cb975ff1a9e1f9db3b272f144cfe43f090973580a.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/2207a98714c023a3f0e6b48a1d12d8498350bb3b4e7badf42bd215604aa50b69.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/9b3dfed1b1432d7a74cef068e249bbb6b1a1ff772aca2d3fea0e42b28aaf294d.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/b0e5bfcc00b46cf4b087d69517839422c1d86f60c6a84704ae58c99c295808fa.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/8ee16e1113d2cbf6a403d5020d113bdb11166013f625cf37f68b11a83dcd1e18.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/0a3aa682387e5e9b8019be81d78eb3c90dc8eca8d82332f1513301ebad60f080.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/bdf8b858e9499104686e6fb8a0d8351f35eabb17df96dfb5a473a201433b0839.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/49fc70194bb75edf785c52b20c4b1f1bcaf66ae38b865b9b178cf57ab1e2f422.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/c8d91f1291e107b119eca46364cbd23712c15b4f626b3f5a9294d051ea3addfa.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/516e35c9a2cdc0ca0b27a479f90547d2f225eaba4906e7caef1449aeadaa815a.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/3f945897f0fb431b68feaaa356f4006ea3ba0df5a4fc32ed7a7158a751f4baa9.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/0741eff698dab07ee2b38edb1ed90a14bc0fc9768fa22f41bd3b5fb3dd153a87.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/4fb5b9a365a7dbf9cc57f08350f490dccd0de4954e9140eb541158bc89b2a798.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/527fd90f778a6d6f4e6dc805cb92da784ec3e464958a8e1c5eb78aff5c6a4234.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/9b0c0d24c7389f7d1be4d9ed6eb7a19f87f36a13778d73fcb0542cbaa3cba217.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/a8e7ceb29af3b7f7450d711faff48deb59366b7076b4abe5e982a665059ae8cd.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/8bc140df3e1c0603c6084b4f5d7b5ccfa62a2b693f9dbc1e716f39164ed69ccc.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/7907756755c58fc23373540073eef596ee4e3d61583e4669d5a5f2e01a811a32.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/815e07f10eb319721c982380af359fcd2b3cffe62fd440839eb733dd950d133b.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/4dcb627ebffaae35af0a0dde9512c4046abcc23537eac87859b7c491aaca441e.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/bd4f62333597dd4a9ca1a402300e96fec8c96cb5c6be7177a74cbf38b9e8ca7e.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/57f4b689da48511c9ccd955655dc6898af268179b47de29b4bece5444b0185c6.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/764644c8ab00989832c83b65bfb5c08a61d84dbb62af9a16eaf019fadff2b1a8.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/2bc0b46fecbcca5029d60c2e0e43b57a26937839476f4000a5d60b611fbd5dcf.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/bd1ce0c0ed03b1387e701b02ecbfa02277d541360db8f42aed0a9e99d1383181.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/5bb37f00b450ec1cd33f3a0f40b08dbfcb3c6d2cfbc5d72a1fa46dee2f3300e0.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/3481d50dd5f97d60bd32aedf5d4d63018af26fd0aef3b8430933e7daa1cc707c.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/4e135165009fae91d22712d4c61c13746100b5934c56b2c2e61c3bbdb23a7119.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/ddad5107d088e182965598a4e6dc41213085857a6cc5592658d39e2d2df8a9c5.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/ca32b65ba3c94ec7249365e219a729f9c789cab4f1ce59a785e555f98d4a0e07.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/41e2c6819202fedf2cec672a3b571fd8bfaac62caae06c5e12f65dbc7ec2d703.m3u8
+咪咕直播 「移动」[group_title],https://stream1.freetv.fun/b3c972525b417c37ef2491ceb6ed37ee098c3adb1977f6b53a8ea4858244a6f6.m3u8
+咪咕直播-27「ipv6」[group_title],https://stream1.freetv.fun/6ee926d0c8d8b1c7dc59968dfe9197454593c852570a082fb77c83f3ce97eecc.m3u8
+咪咕直播4k ⅱ「ipv4」[group_title],https://stream1.freetv.fun/42d0b3ce8bd96f2cb7480fe027ca35a22f2d7832ee7e5a324bc93a2f22f4f209.m3u8
 
-咪咕直播4K-1「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-咪咕直播4K-2「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播-2「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
-咪咕直播-4「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播-5「IPV6」,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-咪咕直播-6「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播-7「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播-8「IPV6」,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播-9「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播-10「IPV6」,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播-11「IPV6」,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播-12「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播-13「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播-14「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播-15「IPV6」,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播-16「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播-17「IPV6」,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播-18「IPV6」,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播-19「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播-20「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播-21「IPV6」,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-咪咕直播-22「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播-23「IPV6」,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播-24「IPV6」,http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
-咪咕直播-25「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
-咪咕直播-26「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
-咪咕直播-27「IPV6」,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
-咪咕直播-28「IPV6」,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播-29「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播-30「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播-31「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播-32「IPV6」,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
-咪咕直播-33「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
-咪咕直播-34「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
-咪咕直播-35「IPV6」,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
-咪咕直播-36「IPV6」,http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
-咪咕直播-37「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播-38「IPV6」,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播-39「IPV6」,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-咪咕直播-40「IPV6」,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播-41「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播-42「IPV6」,http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
-咪咕直播-43「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播-44「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-咪咕直播-45「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播-46「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播-47「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播-48「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-咪咕直播-49「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播-50「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播-51「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播-52「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播-53「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播-54「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播-55「IPV6」,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播-56「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播-4「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播-5「IPV6」,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-咪咕直播-6「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播-7「IPV6」,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播-8「IPV6」,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播-9「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播-10「IPV6」,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播-11「IPV6」,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播-12「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播-13「IPV6」,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播-14「IPV6」,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播-15「IPV6」,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播-16「IPV6」,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播-17「IPV6」,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播-18「IPV6」,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播-19「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播-20「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播-21「IPV6」,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-咪咕直播-22「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播-23「IPV6」,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播-28「IPV6」,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播-29「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播-30「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播-31「IPV6」,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播-37「IPV6」,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播-38「IPV6」,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播-39「IPV6」,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-咪咕直播-40「IPV6」,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播-41「IPV6」,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播-43「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播-45「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播-46「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播-47「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播-48「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-咪咕直播-49「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播-50「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播-51「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播-52「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播-53「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播-54「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播-55「IPV6」,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播-56「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 
 
