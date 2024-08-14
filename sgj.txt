@@ -1209,7 +1209,7 @@ CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 斗鱼旅行16,https://www.goodiptv.club/douyu/9172774
 斗鱼旅行17,https://www.goodiptv.club/douyu/4834417
 斗鱼旅行18,https://www.goodiptv.club/douyu/2240445
-🇨🇳电视直播,#genre#
+
 斗鱼电影4K,https://ygbh--xingkongbujian.repl.co/douyu/9249162
 斗鱼电影HD1,https://ygbh--xingkongbujian.repl.co/douyu/4246519
 斗鱼电影HD2,https://ygbh--xingkongbujian.repl.co/douyu/10240553
